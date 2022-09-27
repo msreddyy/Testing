@@ -11,6 +11,7 @@ public class HelloWorld {
     public void user_should_be_logged_in_and_should_be_present_at_its_own_wall() throws Throwable {
         System.out.println("User should be logged in and should be present at its own wall");
         System.out.println("Changes for Pull in git bash");
+        System.out.println("222222");
     }
 
     @When("^I type the message in the text box$")
