@@ -13,6 +13,7 @@ public class HelloWorld {
         System.out.println("Changes for Pull in git bash");
         System.out.println("222222");
         System.out.println("done on 28/09/2022");
+        System.out.println("done changes for the second time 28/09/2022");
     }
 
     @When("^I type the message in the text box$")
