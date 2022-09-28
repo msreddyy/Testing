@@ -12,6 +12,7 @@ public class HelloWorld {
         System.out.println("User should be logged in and should be present at its own wall");
         System.out.println("Changes for Pull in git bash");
         System.out.println("222222");
+        System.out.println("done on 28/09/2022");
     }
 
     @When("^I type the message in the text box$")
